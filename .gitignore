@@ -1,2 +1,5 @@
 creditcard.csv
 .idea
+.venv
+.joblib
+.csv
